@@ -4,3 +4,4 @@
 merge1
 merge2
 line2
+line1
